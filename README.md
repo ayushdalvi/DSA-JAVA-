@@ -22,4 +22,4 @@ Feel free to customize this template to better fit your needs! If you have any s
 
 ## END
 
-Stay Tune;
+Stay Tune ;-)
